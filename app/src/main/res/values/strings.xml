@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Epsilon</string>
+    <string name="qst">¿Cómo te llamas?</string>
+    <string name="mail">Nombre</string>
+    <string name="Nomb">Nombre</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="info">Acerca de</string>
+    <string name="osc">Modo oscuro</string>
+    <string name="text">Light Mode</string>
+    <string name="title_home">Home</string>
+    <string name="TextV">Text</string>
+    <string name="Title_dashboard">Dashboard</string>
+    <string name="title_notifi">Notificaciones</string>
+    <string name="btnname">Ingresar</string>
+    <string name="prefs_file">PreferenceFile</string>
+    <string name="textv">Nombre</string>
+    <string name="googlelog">Google</string>
+    <string name="settings">Ajustes Color</string>
+    <string name="Dark">Dark Mode</string>
+    <string name="Launch">Launch second activity</string>
+    <string name="btnabc">Area bajo la curva con sumas de Riemann</string>
+    <string name="btnintdef">Integral definida</string>
+    <string name="intnum">Integración numérica</string>
+    <string name="abtwc">Área entre curvas</string>
+    <string name="vsrev">Volúmen sólidos de revolución</string>
+    <string name="vst">Volúmen por secciones transversales</string>
+    <string name="loarc">Longitud de arco</string>
+    <string name="Qtitle">Quiz Cálculo</string>
+    <string name="abtwcr">Área entre curvas con sumas de Riemann</string>
+    <string name="tvquestion">Calule el área de la función f(x)=2x+1 en el interválo [2,4]</string>
+    <string name="ll_progress_details">Progreso</string>
+    <string name="progressbar">progreso</string>
+    <string name="omit">Omitir</string>
+    <string name="tvoptionone">14.6 undidades cuadradas</string>
+</resources>

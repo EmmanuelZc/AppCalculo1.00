@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.appexamenes">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppExamenes">
+        <activity
+            android:name=".ActivityResult6"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:exported="false" />
+        <activity
+            android:name=".QuestionsVolSecT"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityResult7"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:exported="false" />
+        <activity
+            android:name=".QuestionsLongArc"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityResult5"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:exported="false" />
+        <activity
+            android:name=".QuestionsVolSolid"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityResult4"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:exported="false" />
+        <activity
+            android:name=".Questionsareacur"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityResult3"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:exported="false" />
+        <activity
+            android:name=".QuestionsIntNumrica"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityResult2"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityResult"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:exported="false" />
+        <activity
+            android:name=".QuestionsDefinida"
+            android:exported="false" />
+
+        <activity
+            android:name=".QuestionsAreaBC"
+            android:exported="false" />
+        <activity
+            android:name=".MenuActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+    </application>
+
+</manifest>

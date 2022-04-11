@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="795dp"
+        android:layout_height="147dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/radius"
+        android:drawablePadding="5dp"
+        android:text="Area bajo la curva con summa de Riemman"
+        android:theme="@style/Text"
+
+        />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/radius2"
+        android:text="Integral definida"
+        android:theme="@style/Text" />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/radius3"
+        android:text="Integración Numerica"
+        android:theme="@style/Text" />
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/radius4"
+        android:text="Área entre curvas"
+        android:theme="@style/Text" />
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/radius5"
+        android:text="Volumenes de sólidos de revolución"
+        android:theme="@style/Text" />
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/radius"
+        android:text="Volumenes por secciones transversales"
+        android:theme="@style/Text" />
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/radius2"
+        android:text="Longitud de arco y área de superficie"
+        android:theme="@style/Text"/>
+</LinearLayout>

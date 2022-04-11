@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238591870269",
+    "project_id": "appcalculo-761da",
+    "storage_bucket": "appcalculo-761da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238591870269:android:bc040c6938573b30efb154",
+        "android_client_info": {
+          "package_name": "com.example.appexamenes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238591870269-s6tnlvdd4tmom9sgbs4b4b66k3og03ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX3MbPqMuHU1pCcGAloTgcjaDPazCzQ1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238591870269-s6tnlvdd4tmom9sgbs4b4b66k3og03ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

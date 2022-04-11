@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondoscore"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="20dp"
+    tools:context=".ActivityResult5">
+
+    <ImageView
+        android:id="@+id/imgtrofeo"
+        android:layout_width="210dp"
+        android:layout_height="336dp"
+        android:contentDescription="image"
+        android:src="@drawable/trofeo"></ImageView>
+    <TextView
+        android:id="@+id/felicidades"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textColorLink="@color/black"
+        android:text="FELICIDADES"
+        android:fontFamily="@font/thoseglitchregular"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:textStyle="bold"></TextView>
+
+    <TextView
+        android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="username"
+        android:fontFamily="@font/bebasneueregular"
+        android:textColor="@color/yellow"
+        android:textSize="50sp"
+        android:textStyle="bold"></TextView>
+
+    <TextView
+        android:id="@+id/score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Puntaje obtenido: 9 de 10"
+        android:textStyle="bold"
+        android:fontFamily="@font/thoseglitchregular"
+        android:textColor="@color/black"
+        android:textSize="15sp"></TextView>
+
+    <Button
+        android:id="@+id/btnfinish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="@color/white"
+        android:text="FINALIZAR"
+        android:textColor="@color/Madder_lake"
+        android:textSize="25dp"
+        android:textStyle="bold"></Button>
+
+
+</LinearLayout>

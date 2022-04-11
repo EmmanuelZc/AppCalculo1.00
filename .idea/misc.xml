@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/drawable-v24/wrong_option_border.xml" value="0.1" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_questions_area_bc.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_questions_definida.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_questions_int_numerica.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_questions_int_numrica.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_questions_integral_def.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_questions_long_arc.xml" value="0.1" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_questions_vol_sec_t.xml" value="0.22" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_questions_vol_solid.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_questionsareacur.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_result.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_result2.xml" value="0.1" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_result3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_result4.xml" value="0.22" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_result5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_result6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/anton/Desktop/App_final/AppExamenes/app/src/main/res/layout/activity_result7.xml" value="0.1" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/drawable-v24/correct_option_border.xml" value="0.2635" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/drawable-v24/wrong_option_border.xml" value="0.2635" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/drawable/defult_option_border.xml" value="0.176" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/drawable/ic_fondo.xml" value="0.1" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/drawable/selected_option_border.xml" value="0.2635" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/drawable/splashscreen.xml" value="0.1" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/drawable/vector_person.xml" value="0.1" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/layout/activity_maps.xml" value="0.1265625" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/layout/activity_menu.xml" value="0.264" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/layout/activity_questions_area_bc.xml" value="0.152" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/layout/activity_questions_definida.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/layout/activity_questions_integral_def.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/layout/activity_quiz_area_entre_curvas.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/layout/activity_result.xml" value="0.152" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/layout/activity_result2.xml" value="0.1265625" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/layout/activityinterfaz.xml" value="0.1265625" />
+        <entry key="..\:/Users/einar/AndroidStudioProjects/AppExamenes/app/src/main/res/menu/mi_menu.xml" value="0.264" />
+        <entry key="..\:/Users/einar/Downloads/AppExamenes/app/src/main/res/layout/activity_main.xml" value="0.10389055151774262" />
+        <entry key="..\:/Users/einar/Downloads/AppExamenes/app/src/main/res/layout/activity_menu.xml" value="0.22530996152201796" />
+        <entry key="..\:/Users/einar/Downloads/AppExamenes/app/src/main/res/layout/activity_questions_area_bc.xml" value="0.10389055151774262" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
